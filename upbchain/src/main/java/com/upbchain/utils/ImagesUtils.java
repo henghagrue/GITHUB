@@ -21,7 +21,7 @@ public class ImagesUtils {
      * 添加图片水印 
      *  
      * @param file 原始图片文件流
-     * @param fileName 原始图片文件名称，用于取原有后缀，后缀必须为
+     * @param fileName 原始图片文件名称，用于取原有后缀，后缀必须为bmp,gif,jpeg,png,
      * @param waterImg 水印图片路径，如：C:\\kutuku.png 
      * @param x 水印图片距离目标图片左侧的偏移量，如果x<0, 则在正中间 
      * @param y 水印图片距离目标图片上侧的偏移量，如果y<0, 则在正中间 

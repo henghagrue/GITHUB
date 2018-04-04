@@ -180,6 +180,26 @@
 		    <artifactId>ehcache</artifactId>
 		    <version>2.10.2</version>
 		</dependency>
+		<!-- excel导出插件 https://mvnrepository.com/artifact/net.sourceforge.jexcelapi/jxl -->
+		<dependency>
+		    <groupId>net.sourceforge.jexcelapi</groupId>
+		    <artifactId>jxl</artifactId>
+		    <version>2.6.12</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+		<dependency>
+		    <groupId>org.apache.poi</groupId>
+		    <artifactId>poi</artifactId>
+		    <version>3.17</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-excelant -->
+		<dependency>
+		    <groupId>org.apache.poi</groupId>
+		    <artifactId>poi-excelant</artifactId>
+		    <version>3.17</version>
+		</dependency>
+		
+		
 		
 		
 		
